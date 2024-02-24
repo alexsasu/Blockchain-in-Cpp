@@ -14,4 +14,4 @@ The implementation of this blockchain follows [this implementation](https://gith
 
 Contributors:
 - Alexandru Sasu (https://github.com/alexsasu/)
-- Eduard Selea
+- Eduard Selea (https://github.com/Edward484/)
